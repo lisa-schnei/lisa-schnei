@@ -8,6 +8,12 @@
 💥 Always learning new things at work and in life<br/>
 💬 Languages: 🇩🇪 German 🇬🇧 English 🇸🇪 Swedish
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lisa-ls-schneider/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 --------------------------------------------
 
 Market researcher with a strong foundation in SQL, Python, and data visualization tools (e.g. Tableau). Currently retraining as a Data Analyst to leverage my expertise in quantitative analysis and customer research in the data analytics field.
@@ -26,3 +32,6 @@ I bring a unique combination of analytical thinking, customer focus, a service-o
 ## Other Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=apple,discord,gmail,notion,windows&theme=light)](https://skillicons.dev)
+
+
+
