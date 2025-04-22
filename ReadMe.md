@@ -16,7 +16,7 @@
 
 --------------------------------------------
 
-Market researcher with a strong foundation in SQL, Python, and data visualization tools (e.g. Tableau). Currently retraining as a Data Analyst to leverage my expertise in quantitative analysis and customer research in the data analytics field.
+Market researcher with a strong foundation in SQL, Python, and data visualization tools (e.g. Tableau). Currently deepening my expertise in data analytics.
 
 With 4.5 years of experience in market research, I have built strong skills in asking the right questions, gathering, analysing and interpreting data that lead to meaningful business insights. My project management experience has also equipped me with exceptional coordination, organizational, and time-management skills, which I apply to data analytics and all aspects of my work.
 
