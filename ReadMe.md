@@ -3,15 +3,15 @@
 ## About Me
 
 📍 Living in Stockholm <br/>
-⚙️ Transitioning into Operations, Process Improvement & Process Mining
-💪🏼 Unique blend of skills: **analytics, insights, project management & process thinking**
+⚙️ Transitioning into Operations, Process Improvement & Process Mining<br/>
+💪🏼 Unique blend of skills: **analytics, insights, project management & process thinking**<br/>
 💥 Always learning new things at work and in life<br/>
 💬 Languages: 🇩🇪 German 🇬🇧 English 🇸🇪 Swedish
 
 ### I bring:
-📊 A solid foundation in analytics & research
-🧩 A problem-solving mindset with a systems-thinking approach
-🛠️ Hands-on experience managing projects and improving processes
+📊 A solid foundation in analytics & research<br/>
+🧩 A problem-solving mindset with a systems-thinking approach<br/>
+🛠️ Hands-on experience managing projects and improving processes<br/>
 🔁 A curiosity-driven attitude and love of continuous improvement
 
 <div id="badges">
