@@ -3,10 +3,16 @@
 ## About Me
 
 📍 Living in Stockholm <br/>
-💼 Currently working as a Market Researcher in Gaming<br/>
-💪🏼 Unique skill combination: **data analytics, insights & research, project management**<br/>
+⚙️ Transitioning into Operations, Process Improvement & Process Mining
+💪🏼 Unique blend of skills: **analytics, insights, project management & process thinking**
 💥 Always learning new things at work and in life<br/>
 💬 Languages: 🇩🇪 German 🇬🇧 English 🇸🇪 Swedish
+
+### I bring:
+📊 A solid foundation in analytics & research
+🧩 A problem-solving mindset with a systems-thinking approach
+🛠️ Hands-on experience managing projects and improving processes
+🔁 A curiosity-driven attitude and love of continuous improvement
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lisa-ls-schneider/">
@@ -16,11 +22,9 @@
 
 --------------------------------------------
 
-Market researcher with a strong foundation in SQL, Python, and data visualization tools (e.g. Tableau). Currently retraining as a Data Analyst to leverage my expertise in quantitative analysis and customer research in the data analytics field.
+I’m a former market researcher with 4.5+ years of experience in turning data into insight and insight into action. While I’ve built strong foundations in SQL, Python, and data visualization tools (e.g. Tableau), I’m now pivoting toward roles in operations, process improvement, and process mining—fields where my analytical thinking, people-first mindset, and project coordination skills can shine.
 
-With 4.5 years of experience in market research, I have built strong skills in asking the right questions, gathering, analysing and interpreting data that lead to meaningful business insights. My project management experience has also equipped me with exceptional coordination, organizational, and time-management skills, which I apply to data analytics and all aspects of my work.
-
-I bring a unique combination of analytical thinking, customer focus, a service-oriented approach with a drive to constantly learn in life and at work.
+On this GitHub, you’ll find projects that reflect my skills and projects in data analytics. While my current projects have focused on purely analytical projects, going forward I will use this space to also test, learn and show projects in optimizing workflows or diving deeper into operational data.
 
 --------------------------------------------
 
